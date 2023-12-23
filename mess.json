@@ -1,0 +1,14 @@
+{
+    "wait": "_Bentar ya ayang lagi proses!_",
+    "error": {
+        "Iv": "Link yang ayang kasih error",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup ya jangan disini",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message nihhh ayyy",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup ya ayang",
+    "BotAdmin": "Aku harus jadi admin dulu nihh",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner aku ya ayangg",
+    "OnlyPrem": "Perintah ini khusus member premium ya ayanggg\nMinat jadi premium? hubungi owner",
+    "OnlyUser": "Maaf ayanggg, kamu belum terdaftar di database bot, ketik #verify\nUntuk memverifikasi."
+}
